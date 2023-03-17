@@ -1,0 +1,31 @@
+
+#login-scr {
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    width: 1366px;
+    height: 768px;
+    padding: 10px;
+    justify-content: center;
+
+}
+#login-scr div {
+    border: 0.5px dashed grey;
+    margin-left:25%;
+    margin-top: 15%;
+  text-align: center;
+    width: 600px;
+    display: inline-block;
+    height: 160px;
+    box-sizing: border-box;
+}
+
+.logout {
+    background-color: green;
+    color: white;
+    width: 80px;
+    margin-top: 2 0px;
+    height: 30px;
+    font-size: 10px;
+    border: none;
+    cursor: pointer;
+   
+}

@@ -1,0 +1,17 @@
+main{
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    width: 1366px;
+    height: 768px;
+    padding: 10px;
+    justify-content: center;
+}
+main div {
+    border: 0.5px dashed grey;
+    margin-left: 30%;
+    margin-top: 15%;
+  text-align: center;
+    width: 238px;
+    display: inline-block;
+    height: auto;
+    box-sizing: border-box;
+}
